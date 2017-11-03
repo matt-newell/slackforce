@@ -12,11 +12,13 @@
     },
     "SF_USER_NAME": {
         "description": "Salesforce username for your integration user",
-        "value":""
+        "value":"",
+        "required":false
     },
     "SF_PASSWORD": {
         "description": "Salesforce password for your integration user",
-        "value":""
+        "value":"",
+        "required":false
     },
     "SF_LOGIN_URL": {
         "description": "Salesforce login URL",
